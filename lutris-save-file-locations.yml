@@ -1,1 +1,6 @@
-Downwell: "%LOCALAPPDATA%/Downwell_DRMfree_20161119"
+Downwell:
+    win: "%LOCALAPPDATA%/Downwell_DRMfree_20161119"
+Hollow Knight:
+    win: "%LOCALAPPDATA%Low/Team Cherry/Hollow Knight"
+    linux: "$XDG_CONFIG_HOME/unity3d/Team Cherry/Hollow Knight"
+    
